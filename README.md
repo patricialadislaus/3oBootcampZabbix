@@ -1,5 +1,5 @@
-# Bem vindxs ao 3º Bootcamp de Zabbix!
-## Abaixo seguem os links proveitosos e úteis que servem de apoio/referência para o conteúdo apresentado sobre Zabbix Agent!
+# Welcome to theeee... 3rd Zabbix Bootcamp!
+## Abaixo seguem os links proveitosinhos e útilissíssimos que servirão de apoio/referência para o conteúdo apresentado sobre Zabbix Agent!
 
 ### Zabbix Agent (Clássico)
 https://www.zabbix.com/documentation/6.0/en/manual/concepts/agent
